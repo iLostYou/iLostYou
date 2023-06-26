@@ -1,4 +1,4 @@
-![logo](https://github.com/iLostYou/iLostYou/blob/main/viber_image_2023-06-15_14-27-14-405.jpg)
+![logo](https://github.com/iLostYou/iLostYou/blob/main/Screenshot_20230116-140216.jpg)
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I want to be good person</h3>
 
