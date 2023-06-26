@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **M0W V.3.1**
 
-- 📝 I regularly write articles on [https://mowbreach.forumotion.me/](https://mowbreach.forumotion.me/)
+- 📝My forum [https://mowbreach.forumotion.me/](https://mowbreach.forumotion.me/)
 
-- ⚡ Fun fact **I'm owner of rare name GitHub**
+- ⚡ Fun fact: **I'm owner of rare name in GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
