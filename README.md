@@ -1,6 +1,6 @@
 ![logo](https://github.com/iLostYou/iLostYou/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm not a hacker 100% legit</h3>
+<h3 align="center">I want to be good person</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
