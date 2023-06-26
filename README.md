@@ -4,12 +4,13 @@
 
 - 🔭 I’m currently working on **M0W V.3.1**
 
-- 📝My forum [https://mowbreach.forumotion.me/](https://mowbreach.forumotion.me/)
+- 📝 My forum (https://mowbreach.forumotion.me/)
 
 - ⚡ Fun fact: **I'm owner of rare name in GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/YhH9GyZdmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YhH9GyZdmk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
