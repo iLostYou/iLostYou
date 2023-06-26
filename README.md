@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋</h1>
 <h3 align="center">I want to be good person</h3>
 
 - 🔭 I’m currently working on **M0W V.3.1**
 
-- 📝 My forum (https://mowbreach.forumotion.me/)
+- 📝 My forum https://mowbreach.forumotion.me/
 
 - ⚡ Fun fact: **I'm owner of rare name in GitHub**
 
