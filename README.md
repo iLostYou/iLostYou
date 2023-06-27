@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/staeeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="staeeer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@OGmrpeper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ogmrpeper" height="30" width="40" /></a>
+<a href="https://twitter.com/sightishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="staeeer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@YTsight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ogmrpeper" height="30" width="40" /></a>
 <a href="https://discord.gg/YhH9GyZdmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YhH9GyZdmk" height="30" width="40" /></a>
 </p>
 
