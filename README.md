@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 ik</h1>
+<h1 align="center">Hi 👋</h1>
 
 - 🔭 I’m currently working on **M0W V.3.1**
 
