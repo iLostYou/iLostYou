@@ -1,6 +1,4 @@
-- 🔭 I’m currently working on **M0W V.3.1**
-
-- 📝 My forum [https://mowbreach.forumotion.me/](https://mowbreach.forumotion.me/)
+- 🔭 I’m currently working on **discord.gg/YhH9GyZdmk**
 
 - ⚡ Fun fact: **I'm owner of cool name in GitHub**
 
